@@ -1,0 +1,17 @@
+# ---
+
+# appConfig:
+
+  # #Template Location (Source & Target)
+  # #uiSourcePath: C:\\yandagudita_s\\V3.0m2-angular-cli\\navigator\\src\\app\\pages\\
+  # uiTemplateName: ./template/CTSU-BIOSPEC-SystemDesignContentTemplateUI.docx
+  
+  # #templateConfig:
+  # generationType: SINGLE #SINGLE/BATCH  
+  # templateEnum: UI
+  # changeListEnum: SVN #PROJECT
+  # #rootPackage: com.westat.ctsu.navigator #Enable if changeListEnum #PROJECT
+  # #moduleName:  Module Name # Enable if generationType: SINGLE 
+  # workItems:   CNTR-429,CNTR-351,CNTR-301
+  # jiraQuery:   project = CENTER  AND fixVersion = 4.0  
+  # displayName: Satish Yandagudita

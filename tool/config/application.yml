@@ -1,0 +1,21 @@
+logging:
+  level:
+    .: error
+    org.springframework: ERROR
+    com.westat.ctsu: INFO
+    
+        
+---
+appConfig:  
+####################################################################################################
+
+  jiraProps:
+      url: jiraUrl
+      username: jiraUser
+      password: jiraPwd
+  
+  svnProps:
+      url: svnUrl
+      username: svnUser
+      password: svnPwd
+  

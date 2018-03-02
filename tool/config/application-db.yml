@@ -1,0 +1,11 @@
+# ---
+
+# appConfig:
+  # #templateConfig:
+  # generationType: SINGLE #SINGLE/BATCH  
+  # templateEnum: DB
+  # changeListEnum: SVN #PROJECT
+  # #rootPackage: com.westat.ctsu.navigator #Enable if changeListEnum #PROJECT
+  # #moduleName:  Module Name # Enable if generationType: SINGLE 
+  # workItems:   CNTR-429,CNTR-351,CNTR-301
+  # jiraQuery:   project = CENTER  AND fixVersion = 4.0

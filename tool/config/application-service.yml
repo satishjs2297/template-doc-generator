@@ -1,0 +1,18 @@
+# ---
+
+# appConfig:
+
+
+  # #serviceTemplateName: ./template/CTSU-CENTER-SystemDesignContentTemplate.docx  
+    
+  # #templateConfig:
+  # generationType: BATCH #SINGLE/BATCH  
+  # templateEnum: SERVICE #Never change
+  # rootPackage: #should be configured if changeListEnum: PROJECT
+  # changeListEnum: SVN #PROJECT #Never change
+  # moduleName:  #CENTER-4.0 useful for SINGLE doc generation type
+  
+  # offlineReqJira: true
+  # workItems:   #NAVI-721  #CNTR-470 #NAVI-721, CNTR-457
+  # #jiraQuery:   project = CENTER  AND fixVersion = 4.0
+  # pathBreaker: nav-service #portal for CENTER, nav-service for Naigator
